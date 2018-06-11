@@ -14,13 +14,14 @@ For year = 1700, the output should be
 centuryFromYear(year) = 17.
 
 JavaScript
-|_centuryFromYear.js
+ |_centuryFromYear.js
 
 Java
-|_centuryFromYear.java
+ |_centuryFromYear.java
 
 Swift
-|_centuryFromYear.swift
+ |_centuryFromYear.swift
+ 
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
