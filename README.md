@@ -1,8 +1,8 @@
 # codeFights
-Problems from codefights web page
+These are my solutions in different programing language to problems from codefights web page.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-centuryFromYear.js
+# Century from year.
 
 Given a year, return the century it is in. The first century spans from the year 1 up to and including the year 100, the second - from the year 101 up to and including the year 200, etc.
 
@@ -13,6 +13,14 @@ centuryFromYear(year) = 20;
 For year = 1700, the output should be
 centuryFromYear(year) = 17.
 
+JavaScript
+|_centuryFromYear.js
+
+Java
+|_centuryFromYear.java
+
+Swift
+|_centuryFromYear.swift
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
