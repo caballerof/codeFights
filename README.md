@@ -2,9 +2,16 @@
 Problems from codefights web page
 
 -------------------------------------------------------------------------------------------------------------------------------------
-firstDuplicate:
+centuryFromYear.js
 
-Given an array a that contains only numbers in the range from 1 to a.length, find the first duplicate number for which the second occurrence has the minimal index. In other words, if there are more than 1 duplicated numbers, return the number for which the second occurrence has a smaller index than the second occurrence of the other number does. If there are no such elements, return -1.
+Given a year, return the century it is in. The first century spans from the year 1 up to and including the year 100, the second - from the year 101 up to and including the year 200, etc.
+
+Example
+
+For year = 1905, the output should be
+centuryFromYear(year) = 20;
+For year = 1700, the output should be
+centuryFromYear(year) = 17.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
