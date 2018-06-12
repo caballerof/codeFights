@@ -18,6 +18,7 @@ solutions available:
  - JavaScript/centuryFromYear.js
  - Java/centuryFromYear.java
  - Swift/centuryFromYear.swift
+ - Kotlin/centuryFromYear.kt
  
 -------------------------------------------------------------------------------------------------------------------------------------
 # Check Palindrome
